@@ -17,5 +17,13 @@
     "bluebird": "^2.9.27",
     "is-promise": "^2.0.0"
   },
-  "keywords": []
+  "keywords": [
+    "aplus",
+    "async",
+    "json",
+    "json-parse",
+    "parse",
+    "promise",
+    "then"
+  ]
 }
