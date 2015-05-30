@@ -1,0 +1,21 @@
+{
+  "name": "then-parse-json",
+  "version": "0.0.0",
+  "description": "Gracefully parse JSON using promises - promisified JSON.parse",
+  "repository": "tunnckoCore/then-parse-json",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "native-or-bluebird": "~1.2.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "bluebird": "^2.9.27",
+    "is-promise": "^2.0.0"
+  },
+  "keywords": []
+}
