@@ -1,6 +1,6 @@
 {
   "name": "then-parse-json",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Gracefully parse JSON using promises - promisified JSON.parse",
   "repository": "tunnckoCore/then-parse-json",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
