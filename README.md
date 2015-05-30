@@ -70,14 +70,14 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 [standard-img]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
 
 
-[author-www-url]: http://www.tunnckoCore.tk
-[author-www-img]: https://img.shields.io/badge/www-tunnckoCore.tk-fe7d37.svg
+[author-www-url]: http://www.tunnckocore.tk
+[author-www-img]: https://img.shields.io/badge/www-tunnckocore.tk-fe7d37.svg
 
-[keybase-url]: https://keybase.io/tunnckoCore
-[keybase-img]: https://img.shields.io/badge/keybase-tunnckoCore-8a7967.svg
+[keybase-url]: https://keybase.io/tunnckocore
+[keybase-img]: https://img.shields.io/badge/keybase-tunnckocore-8a7967.svg
 
-[author-npm-url]: https://www.npmjs.com/~tunnckoCore
-[author-npm-img]: https://img.shields.io/badge/npm-~tunnckoCore-cb3837.svg
+[author-npm-url]: https://www.npmjs.com/~tunnckocore
+[author-npm-img]: https://img.shields.io/badge/npm-~tunnckocore-cb3837.svg
 
 [author-twitter-url]: https://twitter.com/tunnckoCore
 [author-twitter-img]: https://img.shields.io/badge/twitter-@tunnckoCore-55acee.svg
