@@ -1,5 +1,9 @@
 
 
+## 1.0.2 - 2015-05-30
+- Release v1.0.2 / npm@v1.0.2
+- fix badges links, duh
+
 ## 1.0.1 - 2015-05-30
 - Release v1.0.1 / npm@v1.0.1
 - fix links
